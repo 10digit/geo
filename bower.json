@@ -1,0 +1,14 @@
+{
+    "name": "10digit.geo",
+    "version": "0.1.0",
+    "main": "./geo.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "angular": "*",
+        "angular-ui-bootstrap": "0.6.0"
+    }
+}
